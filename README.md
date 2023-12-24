@@ -26,3 +26,18 @@ Lookahead Decoding：https://lmsys.org/blog/2023-11-21-lookahead-decoding/
 
 机器学习框架的一些论文：
 
+参数服务器（Parameter Server）逐段精读【论文精读】
+https://www.bilibili.com/video/BV1YA4y197G8
+
+
+Megatron LM 论文精读【论文精读】
+https://www.bilibili.com/video/BV1nB4y1R7Yz
+
+GPipe 论文精读
+https://www.bilibili.com/video/BV1v34y1E7zu
+
+Pathways 论文精读
+https://www.bilibili.com/video/BV1xB4y1m7Xi
+
+
+
