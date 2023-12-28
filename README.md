@@ -2,6 +2,10 @@
 
 ## 基础知识
 
+一个很好的大语言模型技术的学习网站
+
+https://github.com/liguodongiot/llm-action
+
 CUDA并行计算教程：Intro to Parallel Programming
 
 https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2
