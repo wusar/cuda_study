@@ -90,8 +90,10 @@ Lookahead Decoding：https://lmsys.org/blog/2023-11-21-lookahead-decoding/
 
 一些其他的应用：
 
+未来能投稿的会议：
+计算机体系结构与系统领域顶级学术会议截止时间汇总
 
-
+https://zhuanlan.zhihu.com/p/451866435
 
 
 
