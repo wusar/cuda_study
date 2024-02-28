@@ -3,8 +3,11 @@
 ## CUDA 学习路线
 
 https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2
+
 cuda by example
+
 Professional Cuda C programming
+
 GPU编程与优化——大众高性能计算
 
 ## 基础知识
