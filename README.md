@@ -1,5 +1,12 @@
 # 并行计算与加速
 
+## CUDA 学习路线
+
+https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2
+cuda by example
+Professional Cuda C programming
+GPU编程与优化——大众高性能计算
+
 ## 基础知识
 
 一个很好的大语言模型技术的学习网站
